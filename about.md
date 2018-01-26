@@ -1,6 +1,8 @@
 ---
+
 layout: page
 tittle: About
+
 ---
 
 THis is an about page of DEvPlug People
