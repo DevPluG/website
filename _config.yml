@@ -5,9 +5,7 @@ email: devplug@yahoo.com
 description: DEvPluG are people who want to go far
 twitter_username: DEvPluG
 github_username: devplug
-facebook_username: devplug
 
 # Build Settings
-
 markdown: kramdown
 theme: minima
